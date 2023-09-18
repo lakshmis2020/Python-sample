@@ -43,10 +43,10 @@ jobs:
             config: './gin_juice.yaml'
             log_level: info
             #prod
-            base_url: "https://deu.ast.checkmarx.net/"
+            base_url: "https://ind.ast.checkmarx.net/"
             environment_id: "4e661cd1-11a0-42d7-886f-4ef2bc743eb6"
             # canary
-            #base_url: "https://deu.ast.checkmarx.net"
+            #base_url: "https://deu.ast.checkmarx.net/"
             #environment_id: "xxx"
             fail_on: ""
             verbose: true
